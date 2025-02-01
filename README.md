@@ -1,7 +1,7 @@
 
 ![스크린샷 2025-01-23 오후 9 57 10](https://github.com/user-attachments/assets/7d269ca5-3ff1-42d7-9549-643d05e8e9c1)
 
-
+</br>
 # LG DX School
 
 LG DX School은 디지털 트랜스포메이션을 위한 체계적인 교육과정을 제공하며, 기획, 개발, 데이터 분석 등 다양한 분야의 역량을 강화할 수 있는 프로그램입니다.  
